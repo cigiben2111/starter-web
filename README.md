@@ -13,3 +13,7 @@ This is a blbablablabla
 ##Purpose
 
 ##How to contirbute
+
+###Copyright
+
+some blabla
